@@ -1,6 +1,6 @@
 ### Hi, I’m Arun 👋
 
-Tech Lead in Toronto with 13+ years shipping mobile, web, and AI-powered products end-to-end.
+Tech Lead in Toronto with 13+ years shipping mobile, web, and AI-powered products end-to-end. A decade leading engineering teams of up to 12 across React Native, Firebase, Unity, and backend services.
 
 **What I work in**
 
