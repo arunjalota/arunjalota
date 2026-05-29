@@ -1,6 +1,6 @@
 ### Hi, I’m Arun 👋
 
-Tech Lead in Toronto with 13+ years shipping mobile, web, and AI-powered products end-to-end. Currently leading engineering at [LuvBug Learning](https://luvbuglearning.com) across React Native, Firebase, and our backend services. Previously gameplay programmer and team lead at Game and App Studio, shipping 20+ apps and games.
+Tech Lead in Toronto with 13+ years shipping mobile, web, and AI-powered products end-to-end.
 
 **What I work in**
 
